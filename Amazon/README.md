@@ -25,15 +25,28 @@ For example, an input of M = 2, N = 2 Linked List: 1->2->3->4->5->6->7->8 should
            output: [6,4,7,9,5,4,2,4,8,2,2,7,9,0,7,9,3,1,8,5]
  
 - Given two sorted linked lists, merge them so that the resulting linked list is also sorted.
+- Given a set of points find the one with the shortest distance from the origin
+- Reverse the bits of an 32 bit unsigned integer A.
+- Find if Given number is power of 2 or not.
+More specifically, find if given number can be expressed as 2^k where k >= 1.
 </br>
 
 ----
 <b name="tech">Technical Interview Questions</b>
 <br/>
 <i><u name="dsalg">Data Structures and Algorithms</u></i>
+ - There is an infinite stream of Products. Write a program to print top 10 cheapest products at any given point of time. Do it within fixed amount of memory i.e. you can't consume unknown amount of memory. (Hint: Heaps)
+ - Given n fences, WAP to paint them with k colours such that not more than 2 consecutive fences are of same colour.
+ - Suppose there are 2 glasses with capacities 5 litres and 3 litres. The glasses can only be completely filled or completely emptied. The water can be transferred from one glass to another, for eg. 5 ltrs glass can transfer all water to 3 ltrs glass and 2 ltrs of water will be left in 5 ltrs of glass. You cannot partially empty or fill any glass. The goal is to get 4 ltrs of water in any one glass. WAP to do this with n number of glasses with given capacities for each and the final capacity to achieve being k in any 1 glass. Print the least number of steps required to do so.
+ - Given a large 2D array with numbers increasing as you go right or you go down. Convert this into a sorted 1D array in fixed amount of memory. (Hint: Heaps)
 
 <br/>
 <i><u name="dbms">DBMS</u></i>
+
+ - Difference between different type of Normalisation.
+ - Difference between SQL and NoSQL
+ - Define the ACID properties.
+ - What is Cursor? How to use a Cursor?
 
 <br/>
 <i><u name="os">Operating System</u></i>
@@ -66,3 +79,5 @@ For example, an input of M = 2, N = 2 Linked List: 1->2->3->4->5->6->7->8 should
 <br/>
 <br/>
 <i><u name="misc">Miscellaneous</u></i>
+
+ - Describe the main features of object oriented programming.
